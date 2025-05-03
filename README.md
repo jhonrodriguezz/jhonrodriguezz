@@ -5,24 +5,24 @@
 </p>	
 <p align = "center">
 <a href="https://www.youtube.com/@jhonrodriguez6803" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@jhonrodriw?lang=es-419" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://www.facebook.com/profile.php?id=100016996878933" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
+<a href="https://x.com/WilrroEC" target="_blank"><img align="center" src=https://img.shields.io/badge/twitter-%2300acee.svg?style=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt="@jhonrodriguezz" /></a>
+<a href="https://www.tiktok.com/@jhonrodriw?lang=es-419" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@jhonrodriguezz" /></a>
+<a href="https://www.facebook.com/profile.php?id=100016996878933" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@jhonrodriguezz"  /></a>
+<a href="https://www.facebook.com/profile.php?id=100016996878933" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@jhonrodriguezz"  /></a>
 
 </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Ingeniero en Tecnologías de la Información 
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Me gusta aprender y comprender las nuevas tecnologías actuales
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📝 Roles en el ámbito: desarrollador... líder... emprendedor... freelance... y en un futuro quién sabe ☺️
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **jwrr333@gmail.com**
 <!--Intro end-->
   </p>
 <br>
