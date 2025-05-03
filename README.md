@@ -27,7 +27,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 ><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Tecnologías Conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
